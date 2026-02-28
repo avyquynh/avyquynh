@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello! I'm Avy👋
+
+#### I am a Computer Science and Computer Information Systems student, interested in pursuing sustainability, art, and human development through tech! 🌱 🖥️
+
 
 <!--
 **avyquynh/avyquynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
