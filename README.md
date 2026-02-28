@@ -1,6 +1,17 @@
 ## Hello! I'm Avy👋
 
-#### I am a Computer Science and Computer Information Systems student, interested in pursuing sustainability, art, and human development through tech! 🌱 🖥️
+I am a Computer Science and Computer Information Systems student, interested in pursuing sustainability, art, and human development through tech! 🌱 🖥️<br/>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;👩🏻‍💻 Student at Arizona State University<br/><br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;🎨 I love art, games, and video-editing<br/><br/>
+## 💻 Profiles
+  <a href="https://www.linkedin.com/in/avy-chung/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    
+  <a href="https://www.youtube.com/@avyquynh2">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
 
 
 <!--
