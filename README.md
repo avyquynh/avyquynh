@@ -2,13 +2,15 @@
 
 ![my-banner](/assets/banner.png)
 <br/>
-I am a Computer Science and Computer Information Systems student, interested in pursuing sustainability, art, and human development through tech! 🌱 🖥️<br/>
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;👩🏻‍💻 Student at Arizona State University<br/><br/>
-     &nbsp;&nbsp;&nbsp;&nbsp;🎨 I love art, games, and video-editing<br/><br/>
+
+I am interested in pursuing sustainability, art, and human development through tech!<br/><br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;👩🏻‍💻 Computer Science and Computer Information Systems Student at Arizona State University.<br/><br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;🎨 I love art, music, videogames, and video editing.<br/><br/>
+
 
 ### Come View my Portfolios!    
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avyquynh.github.io/avyquynh-portfolio/"> Professional Portfolio </a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avyquynh.github.io/avyquynh-art-portfolio/"> Art Portfolio </a>&nbsp;&nbsp;<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avyquynh.github.io/avyquynh-portfolio/">Professional Portfolio</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avyquynh.github.io/avyquynh-art-portfolio/">Art Portfolio</a>&nbsp;&nbsp;<br/><br/>
 
 
 ## 💻 Profiles
