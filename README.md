@@ -9,8 +9,8 @@ I am interested in pursuing sustainability, art, and human development through t
 
 
 ### Come View my Portfolios!    
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avyquynh.github.io/avyquynh-portfolio/">Professional Portfolio</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avyquynh.github.io/avyquynh-art-portfolio/">Art Portfolio</a>&nbsp;&nbsp;<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avyquynh.github.io/avyquynh-portfolio/" target="_blank">Professional Portfolio</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avyquynh.github.io/avyquynh-art-portfolio/" target="_blank">Art Portfolio</a>&nbsp;&nbsp;<br/><br/>
 
 
 ## 💻 Profiles
