@@ -1,6 +1,6 @@
 ## Hello! I'm Avy👋
 
-![my-banner](/assets/banner.png)
+![my-banner](banner.png)
 <br/>
 
 I am interested in pursuing sustainability, art, and human development through tech!<br/><br/>
