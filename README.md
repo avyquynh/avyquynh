@@ -1,5 +1,7 @@
 ## Hello! I'm Avy👋
 
+![my-banner](/assets/banner.png)
+<br/>
 I am a Computer Science and Computer Information Systems student, interested in pursuing sustainability, art, and human development through tech! 🌱 🖥️<br/>
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;👩🏻‍💻 Student at Arizona State University<br/><br/>
      &nbsp;&nbsp;&nbsp;&nbsp;🎨 I love art, games, and video-editing<br/><br/>
