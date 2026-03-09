@@ -7,13 +7,18 @@ I am interested in pursuing sustainability, art, and human development through t
      &nbsp;&nbsp;&nbsp;&nbsp;👩🏻‍💻 Computer Science and Computer Information Systems Student at Arizona State University.<br/><br/>
      &nbsp;&nbsp;&nbsp;&nbsp;🎨 I love art, music, videogames, and video editing.<br/><br/>
 
-
 ### Come View my Portfolios!    
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avyquynh.github.io/avyquynh-portfolio/" target="_blank">Professional Portfolio</a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avyquynh.github.io/avyquynh-art-portfolio/" target="_blank">Art Portfolio</a>&nbsp;&nbsp;<br/><br/>
 
 
 ## 💻 Profiles
+Find me across all platforms:
+
+```bash
+avyquynh
+```
+<br/>
   <a href="https://www.linkedin.com/in/avy-chung/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -21,7 +26,6 @@ I am interested in pursuing sustainability, art, and human development through t
   <a href="https://www.youtube.com/@avyquynh2">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>&nbsp;&nbsp;<br/>
-  
 <!--
 **avyquynh/avyquynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
